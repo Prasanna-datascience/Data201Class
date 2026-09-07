@@ -27,7 +27,7 @@
 - Unordered - List item 3
 
 ##### Header Level 5 - Links
-https://github.com/Prasanna-datascience/Data110Class
+https://github.com/Prasanna-datascience/Data201Class
 
 ###### Header Level 6 - Image
 ![Data Science Logo](https://github.com/Prasanna-datascience/Data110Class/blob/main/Datascience%20Logo.jpg)
@@ -41,8 +41,8 @@ https://github.com/Prasanna-datascience/Data110Class
 ###### Header Level 6 - Inline Code & Code Blocks
 Here is the example of 'Inline Code' used within a sentence.
 ***
-def Hello Data_Science_110():
-  Print(*Hello Data_Science_110*)
+def Hello Data_Science_201():
+  Print(*Hello Data_Science_201*)
 ***
 
 
